@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Roboto+Serif:opsz@8..144&display=swap');
+
+*{
+    margin: 0%;
+}
+h1 {
+    color: blue;
+    text-align: center;
+    margin-top: 1px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Roboto Serif', serif;
+ }
+ img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+.button {
+    color: blue;
+    text-align: center;
+    font-family: 'Roboto Serif', serif;
+    font-size: x-large;
+ }
+
+    
